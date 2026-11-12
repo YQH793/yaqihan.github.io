@@ -1,1 +1,13 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+# 基础信息（请根据你的实际情况填写）
+title: 你的博客标题
+description: 你的博客描述
+baseurl: ""
+url: "https://你的用户名.github.io"
+
+# 核心配置：使用远程主题
+# 这里以功能更全面的 Chirpy 主题为例，它能实现类似卡片式列表的效果
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+# 其他可选配置
+theme_mode: light  # 或 dark 或 auto
